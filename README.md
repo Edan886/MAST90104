@@ -17,5 +17,11 @@ Many fundamental conceptions about multivariate satistics were introduced.
 
 6.PCA & K-means
 
+Important Gather:
+
+1.Hypothesis testing 
+
+2.Different types of GLM
+
 
 **Final Marks:  **

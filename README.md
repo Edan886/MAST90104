@@ -16,3 +16,6 @@ Many fundamental conceptions about multivariate satistics were introduced.
 5.Sampling techniques
 
 6.PCA & K-means
+
+
+**Final Marks:  **

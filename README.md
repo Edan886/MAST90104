@@ -24,4 +24,4 @@ Important Gather:
 2.Different types of GLM
 
 
-**Final Marks:  **
+Final Mark:  

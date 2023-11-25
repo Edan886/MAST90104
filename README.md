@@ -24,4 +24,5 @@ Important Gather:
 2.Different types of GLM
 
 
-Final Mark:  
+Final Mark:86/100
+
